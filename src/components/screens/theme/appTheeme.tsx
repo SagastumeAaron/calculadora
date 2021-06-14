@@ -67,8 +67,17 @@ export const styles = StyleSheet.create({
         fontWeight: 'bold',
     },
 
-    boton1:{
-        borderRadius:10,
+    boton1: {
+        borderRadius: 10,
+        marginRight: 20,
+        marginLeft: 20,
+        marginTop:10,
+    },
+
+    input: {
+        height: 40,
+        borderColor: 'gray',
+        borderWidth: 1,
         margin:20
     }
 
