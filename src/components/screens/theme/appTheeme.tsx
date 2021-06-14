@@ -65,6 +65,11 @@ export const styles = StyleSheet.create({
         color: 'green',
         marginTop: '-0.1%',
         fontWeight: 'bold',
+    },
+
+    boton1:{
+        borderRadius:10,
+        margin:20
     }
 
 });
